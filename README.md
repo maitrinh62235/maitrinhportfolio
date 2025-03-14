@@ -24,8 +24,7 @@ This portfolio highlights my journey through data analysis and showcases the pro
 5. [Work Experience](#work-experience)
 6. [Certifications](#certifications)
 7. [Contact](#contact)
-8. [How to Use This Repository](#how-to-use-this-repository)
-9. [Conclusion](#conclusion)
+8. [Conclusion](#conclusion)
 
 ---
 
