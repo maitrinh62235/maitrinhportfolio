@@ -99,17 +99,7 @@ If you have any questions or would like to connect, feel free to reach out to me
 
 ---
 
-## How to Use This Repository
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/maitrinh62235/maitrinhportfolio.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd portfolio
-    ```
+Thank you for taking the time to explore my portfolio. I am excited to connect and look forward to opportunities where I can use data insights to drive business success!
 
 3. Open `index.html` to view the portfolio.
 
