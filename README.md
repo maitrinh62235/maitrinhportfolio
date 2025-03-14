@@ -1,5 +1,7 @@
 # Trinh Nguyen Mai - Data Analyst Portfolio
 
+---
+
 ## About
 
 Hello! I’m **Trinh Nguyen Mai**, a **Data Analyst** with a focus on transforming data into actionable insights. I am currently pursuing my degree in **Management of Information Systems** at the **University of Economics and Laws** (VNU-HCM), expected to graduate in May 2025. With hands-on experience in data analysis and visualization tools like **Power BI**, **SQL**, **Python**, and **Excel**, I am passionate about solving complex problems and making data-driven decisions.
@@ -7,6 +9,23 @@ Hello! I’m **Trinh Nguyen Mai**, a **Data Analyst** with a focus on transformi
 Through my coursework and projects, I’ve built a strong foundation in **business intelligence**, **data mining**, and **machine learning** techniques. I enjoy using data to optimize processes, uncover patterns, and contribute to business success. As a proactive learner, I’m always exploring new technologies to grow and expand my analytical skills.
 
 This portfolio highlights my journey through data analysis and showcases the projects I’ve worked on, reflecting my growth, passion for learning, and commitment to excellence.
+
+---- 
+
+## Table of Contents
+
+1. [About](#about)
+2. [Portfolio Projects](#portfolio-projects)
+   - [Power BI Data Analysis](#power-bi-data-analysis)
+   - [Fraud Detection with R/Python](#fraud-detection-with-rpython)
+   - [Shopping Behavior Analysis](#shopping-behavior-analysis)
+3. [Skills & Tools](#skills--tools)
+4. [Education](#education)
+5. [Work Experience](#work-experience)
+6. [Certifications](#certifications)
+7. [Contact](#contact)
+8. [How to Use This Repository](#how-to-use-this-repository)
+9. [Conclusion](#conclusion)
 
 ---
 
@@ -117,7 +136,23 @@ Feel free to reach out for collaborations or inquiries:
 
 - **Email**: [maitrinh62235@gmail.com](mailto:maitrinh62235@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nguyen-mai-trinh/)
-- **GitHub**: [GitHub Profile](https://github.com/maitrinh62235)
+- **GitHub**: [GitHub Profile](https://github.com/your-username)
+
+---
+
+## How to Use This Repository
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/portfolio.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd portfolio
+    ```
+
+3. Open `index.html` to view the portfolio.
 
 ---
 
