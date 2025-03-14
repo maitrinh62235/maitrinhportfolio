@@ -138,21 +138,6 @@ Feel free to reach out for collaborations or inquiries:
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nguyen-mai-trinh/)
 - **GitHub**: [GitHub Profile](https://github.com/your-username)
 
----
-
-## How to Use This Repository
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/portfolio.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd portfolio
-    ```
-
-3. Open `index.html` to view the portfolio.
 
 ---
 
