@@ -1,110 +1,117 @@
 # Data Analyst Portfolio
 
-Welcome to my personal portfolio! I am a **detail-oriented Data Analyst** with a passion for transforming complex data into clear, actionable insights that empower decision-making and business growth. This portfolio showcases my journey, the skills I have honed, and the projects I’ve worked on.
+Welcome to my portfolio! I am a passionate and detail-oriented **Data Analyst** with a strong foundation in **data analysis**, **machine learning**, and **business intelligence**. My goal is to leverage data-driven strategies to support decision-making, optimize processes, and contribute to business growth. 
 
 ---
 
 ## About Me
 
-I am a highly motivated **Data Analyst** with a strong foundation in **data visualization**, **machine learning**, **data analysis**, and **business intelligence**. With hands-on experience in tools such as **Power BI**, **SQL**, **Python**, and **Excel**, I specialize in interpreting data, uncovering patterns, and helping businesses make data-driven decisions. 
+I specialize in transforming complex datasets into meaningful insights through tools like **Power BI**, **SQL**, **Python**, and **Excel**. With experience in both technical skills and business communication, I have successfully supported teams in improving operations, optimizing processes, and delivering actionable reports. I am excited to continue learning, grow in the field of data analysis, and explore opportunities within industries like gaming, banking, and software development.
 
-I am passionate about solving problems through data and continuously seek to learn new techniques, improve processes, and enhance my skills. Whether it’s creating interactive dashboards, analyzing customer behavior, or developing machine learning models, I am committed to using data to drive insights and innovation.
+I am particularly passionate about **enhancing user experiences**, **optimizing player behavior**, and applying data-driven approaches to improve products and services.
 
 ---
 
 ## Skills
 
-Here are some of the key skills I have developed throughout my career:
+### **Technical Skills:**
+- **Data Analysis & Visualization**: Power BI, SQL, Python (Pandas, Matplotlib, Seaborn, Scikit-learn), Excel
+- **Machine Learning**: Logistic Regression, Random Forest, XGBoost, LSTM, VAE
+- **Business Intelligence**: Power BI Dashboards, Data Modeling, ETL Pipelines
+- **Programming & Databases**: Python, R, SQL (Database Management, Data Wrangling, Query Optimization)
+- **Project Management**: Microsoft Project, Jira
+- **Software**: Microsoft Office 365 (Word, Excel, Teams, PowerPoint), SAP S/4HANA
 
-### Technical Skills:
-- **Data Analysis & Visualization**: Power BI, Tableau, Excel
-- **Machine Learning**: Logistic Regression, XGBoost, Random Forest, LSTM, Deep Learning (TensorFlow, Keras)
-- **Programming**: Python (Pandas, NumPy, Scikit-learn, Matplotlib), R, SQL
-- **Database Management**: SQL Server, MySQL, PostgreSQL, Data Warehousing
-- **Data Cleaning & Transformation**: ETL processes, data wrangling
-- **Project Management Tools**: Jira, Microsoft Project, Trello
-- **Business Intelligence**: ETL pipeline design, KPIs, Dashboards
-- **Cloud Platforms**: AWS, Google Cloud (BigQuery, Data Studio)
-
-### Soft Skills:
-- **Communication**: Presenting insights in a clear and understandable manner.
-- **Leadership**: Leading team efforts in project delivery.
-- **Time Management**: Prioritizing tasks to meet deadlines.
-- **Problem Solving**: Identifying key issues and finding effective solutions.
-- **Detail-Oriented**: Ensuring data accuracy and integrity.
+### **Soft Skills:**
+- **Communication**: Conveying complex data insights to non-technical stakeholders
+- **Time Management**: Efficiently prioritizing tasks and meeting deadlines
+- **Leadership**: Leading projects and teams towards successful outcomes
+- **Problem-solving**: Analytical thinking for identifying trends and insights
+- **Detail-oriented**: Ensuring high-quality and accurate results in analysis
 
 ---
 
-## Projects
+## Education
 
-Below are some of the most notable projects I have worked on, demonstrating my abilities in data analysis, machine learning, and business intelligence.
+**University of Economics and Laws (VNU-HCM)**  
+**Expected Graduation**: May 2025  
+**Degree**: Management of Information Systems  
+**GPA**: 3.1/4.0
 
-### 1. **Fraud Detection with Machine Learning**
-- **Tools Used**: Python, Scikit-learn, XGBoost, SQL
-- **Description**: In this project, I developed and trained machine learning models to identify fraudulent transactions in financial datasets. I used models like **Logistic Regression**, **XGBoost**, and **Random Forest** to classify transactions as fraudulent or legitimate. My solution achieved a **98% recall** and **95% precision**, enhancing security and reducing false positives.
-- **Key Contributions**:
-  - Data preprocessing and feature engineering
-  - Model training and hyperparameter tuning
-  - Evaluation and performance assessment of models
-  - Deployed a fraud detection system for real-time usage.
+### **Relevant Coursework:**
+- Business Intelligence
+- Data Analytics (R/Python)
+- Database Management
+- Data Mining
+- Programming Techniques
 
-### 2. **Customer Segmentation Analysis**
-- **Tools Used**: Python (Pandas, K-Means), SQL
-- **Description**: For this project, I analyzed customer data to group similar customers using **K-Means clustering**. By segmenting customers based on their purchasing behaviors, I was able to provide actionable insights to improve marketing strategies and customer retention.
-- **Key Contributions**:
-  - Cleaned and preprocessed customer data
-  - Applied clustering techniques to segment customers
-  - Visualized segmentation results using matplotlib and seaborn
-  - Provided recommendations based on insights for targeted marketing.
+### **Relevant Projects:**
+1. **Power BI Data Analysis**
+   - Built ETL pipelines using **SQL**, **SSIS**, and **Power BI**, processing **316 records** with 99.9% accuracy.
+   - Designed 3 interactive dashboards for **HR analytics**, improving trend analysis and decision-making.
 
-### 3. **Power BI Dashboards for HR Analytics**
-- **Tools Used**: Power BI, SQL
-- **Description**: Developed interactive **Power BI dashboards** to visualize key HR metrics such as employee performance, turnover rates, and recruitment progress. The dashboard helped HR teams quickly assess trends and make informed decisions related to staffing and retention.
-- **Key Contributions**:
-  - Designed and implemented multiple dashboards for HR tracking
-  - Integrated data from SQL Server to automate the reporting process
-  - Created custom KPIs to measure HR effectiveness
-  - Enhanced user experience with dynamic filters and drill-down features.
+2. **Fraud Detection with R/Python**
+   - Developed **LSTM** and **VAE** models, processing **550,000+ records** with **98% recall** and **50% precision**.
+   - Integrated **real-time fraud detection**, improving security in payment systems.
 
-### 4. **Data Cleaning and ETL Processes for Business Intelligence**
-- **Tools Used**: Python (Pandas), SQL, Power BI
-- **Description**: This project involved designing and optimizing **ETL pipelines** to clean and process raw data from various sources for analysis. I used **Python** and **SQL** to transform the data into a usable format and then created reports and dashboards in **Power BI** to track business performance.
-- **Key Contributions**:
-  - Cleaned raw datasets, handled missing values, and removed duplicates
-  - Built ETL pipelines to automate data flow from databases to dashboards
-  - Optimized SQL queries to reduce data retrieval times
-  - Delivered actionable reports for business stakeholders.
+3. **Shopping Behavior Analysis**
+   - Segmented **4,000+ customers** using **K-Means** and **FP-Growth**, identifying **100+ frequent itemsets**.
+   - Enhanced **stock availability** and **customer retention** using predictive insights.
+
+---
+
+## Work Experience
+
+### **Head of Media Team**, The Associated Organ of Vietnamese Students’ Association  
+**2021 – 2023**
+- Managed social media campaigns, increasing event engagement by **90%** and page traffic by **50%**.
+- Organized **faculty workshops** and **volunteer programs**, achieving a **70% student participation rate**.
+
+### **Data Analyst Apprentice**, Vietnam International Bank (VIB)  
+**April 2024 – June 2024**
+- Developed and evaluated **machine learning models** (Logistic Regression, Random Forest, XGBoost) for credit card fraud detection.
+- Applied AI techniques like **CatBoost**, **LSTM**, and **Deep Neural Networks**, improving model accuracy by **15%**.
+- Achieved **98% recall** and **95% precision**, contributing to an **AUC of 0.98**, reducing financial risks.
+
+### **Data Analyst Intern**, Bosch Global Software Technologies Vietnam  
+**Nov 2024 – May 2025**  
+- Optimized **internal tracking dashboards** to monitor **10+ KPIs**, improving reporting efficiency by **30%**.
+- Designed new **interactive dashboards** for performance measurement, supporting decision-making across **100+ employees**.
+- Enhanced **dashboard UI/UX** and optimized **SQL queries**, reducing query times by **40%** and increasing data accuracy by **25%**.
+
+---
+
+## Certifications
+- **Google Data Analytics Professional Certificate** (Coursera)
+- **SAP Certified Application Associate** – Business Process Integration with SAP S/4HANA 2020 (TS410)
+- **IELTS**: Reading: 6.0, Writing: 6.0 (IDP)
 
 ---
 
 ## Contact
 
-If you'd like to connect with me or have any questions about my work, feel free to reach out through the following channels:
+If you have any questions or would like to connect, feel free to reach out to me through the following channels:
 
 - **Email**: [maitrinh62235@gmail.com](mailto:maitrinh62235@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/nguyen-mai-trinh/)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nguyen-mai-trinh/)
+- **GitHub**: [GitHub Profile](https://github.com/your-username)
 
 ---
 
 ## How to Use This Repository
 
-1. **Clone the repository** to your local machine:
+1. Clone the repository:
     ```bash
     git clone https://github.com/your-username/portfolio.git
     ```
 
-2. **Navigate** to the portfolio directory:
+2. Navigate to the project directory:
     ```bash
     cd portfolio
     ```
 
-3. **Open the portfolio** by launching `index.html` in your web browser. This will display the portfolio site.
-
-4. Feel free to explore the code and learn more about each project I have worked on. You can also find the code for each individual project in the respective project folders.
+3. Open `index.html` to view the portfolio.
 
 ---
 
-## Thank You
-
-Thank you for checking out my portfolio! I am always eager to connect with others in the data science and analytics community. If you have any questions or opportunities for collaboration, please don’t hesitate to reach out.
+Thank you for taking the time to explore my portfolio. I am excited to connect and look forward to opportunities where I can use data insights to drive business success!
