@@ -95,7 +95,7 @@ If you have any questions or would like to connect, feel free to reach out to me
 
 - **Email**: [maitrinh62235@gmail.com](mailto:maitrinh62235@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nguyen-mai-trinh/)
-- **GitHub**: [[((https://github.com/maitrinh62235))]](https://github.com/maitrinh62235)
+- **GitHub**: [((https://github.com/maitrinh62235))](https://github.com/maitrinh62235)
 
 ---
 
