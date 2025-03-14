@@ -62,10 +62,11 @@ I am particularly passionate about **enhancing user experiences**, **optimizing 
 
 ## Work Experience
 
-### **Head of Media Team**, The Associated Organ of Vietnamese Students’ Association  
-**2021 – 2023**
-- Managed social media campaigns, increasing event engagement by **90%** and page traffic by **50%**.
-- Organized **faculty workshops** and **volunteer programs**, achieving a **70% student participation rate**.
+### **Data Analyst Intern**, Bosch Global Software Technologies Vietnam  
+**Nov 2024 – May 2025**  
+- Optimized **internal tracking dashboards** to monitor **10+ KPIs**, improving reporting efficiency by **30%**.
+- Designed new **interactive dashboards** for performance measurement, supporting decision-making across **100+ employees**.
+- Enhanced **dashboard UI/UX** and optimized **SQL queries**, reducing query times by **40%** and increasing data accuracy by **25%**.
 
 ### **Data Analyst Apprentice**, Vietnam International Bank (VIB)  
 **April 2024 – June 2024**
@@ -73,11 +74,11 @@ I am particularly passionate about **enhancing user experiences**, **optimizing 
 - Applied AI techniques like **CatBoost**, **LSTM**, and **Deep Neural Networks**, improving model accuracy by **15%**.
 - Achieved **98% recall** and **95% precision**, contributing to an **AUC of 0.98**, reducing financial risks.
 
-### **Data Analyst Intern**, Bosch Global Software Technologies Vietnam  
-**Nov 2024 – May 2025**  
-- Optimized **internal tracking dashboards** to monitor **10+ KPIs**, improving reporting efficiency by **30%**.
-- Designed new **interactive dashboards** for performance measurement, supporting decision-making across **100+ employees**.
-- Enhanced **dashboard UI/UX** and optimized **SQL queries**, reducing query times by **40%** and increasing data accuracy by **25%**.
+### **Head of Media Team**, The Associated Organ of Vietnamese Students’ Association  
+**2021 – 2023**
+- Managed social media campaigns, increasing event engagement by **90%** and page traffic by **50%**.
+- Organized **faculty workshops** and **volunteer programs**, achieving a **70% student participation rate**.
+
 
 ---
 
@@ -94,7 +95,7 @@ If you have any questions or would like to connect, feel free to reach out to me
 
 - **Email**: [maitrinh62235@gmail.com](mailto:maitrinh62235@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nguyen-mai-trinh/)
-- **GitHub**: [GitHub Profile](https://github.com/your-username)
+- **GitHub**: [[GitHub Profile]((https://github.com/maitrinh62235))]
 
 ---
 
@@ -102,7 +103,7 @@ If you have any questions or would like to connect, feel free to reach out to me
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/portfolio.git
+    git clone https://github.com/maitrinh62235/maitrinhportfolio.git
     ```
 
 2. Navigate to the project directory:
