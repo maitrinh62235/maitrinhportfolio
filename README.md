@@ -95,13 +95,7 @@ If you have any questions or would like to connect, feel free to reach out to me
 
 - **Email**: [maitrinh62235@gmail.com](mailto:maitrinh62235@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nguyen-mai-trinh/)
-- **GitHub**: [[GitHub Profile]((https://github.com/maitrinh62235))]
-
----
-
-Thank you for taking the time to explore my portfolio. I am excited to connect and look forward to opportunities where I can use data insights to drive business success!
-
-3. Open `index.html` to view the portfolio.
+- **GitHub**: [[[GitHub Profile]((https://github.com/maitrinh62235))]](https://github.com/maitrinh62235)
 
 ---
 
