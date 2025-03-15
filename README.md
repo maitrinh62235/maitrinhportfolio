@@ -123,8 +123,8 @@ This section covers the skills and tools I’ve mastered, showcasing the technol
 
 ## Certifications
 
-- **Google Data Analytics Professional Certificate** (Coursera)
-- **SAP Certified Application Associate** – Business Process Integration with SAP S/4HANA 2020 (TS410)
+- [**Google Data Analytics Professional Certificate** (Coursera)](https://www.credly.com/badges/e2400957-5e06-4c70-8041-40b8eec05991/public_url)
+- [**SAP Certified Application Associate** – Business Process Integration with SAP S/4HANA 2020 (TS410)](https://www.credly.com/users/nguy-n-mai-trinh)
 - **IELTS**: Reading: 6.0, Writing: 6.0 (IDP)
 
 ---
