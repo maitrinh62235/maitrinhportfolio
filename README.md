@@ -4,11 +4,11 @@
 
 ## 👋 About Me
 
-Hello! I’m **Trinh Nguyen Mai**, a **data analyst** who thrives at the intersection of business understanding and technical expertise. I am currently a final-year student at the **University of Economics and Laws (VNU-HCM)**, pursuing a **Bachelor’s degree in Management of Information Systems**, expected to graduate in **May 2025**.
+Hello! I’m **Trinh Nguyen Mai**, a **data analyst** who thrives at the intersection of business insight and technical expertise. I am currently a final-year student at the **University of Economics and Laws (VNU-HCM)**, pursuing a **Bachelor’s degree in Management of Information Systems**, with an expected graduation date of **May 2025**.
 
-I specialize in building **data-driven solutions** that improve decision-making and business performance. With hands-on experience using **Power BI, SQL, Python, and R**, I design robust dashboards, optimize data pipelines, and develop machine learning models that uncover actionable insights.
+I specialize in building **data-driven solutions** to enhance decision-making and business performance. With hands-on experience using **Power BI, SQL, Python, and R**, I design intuitive dashboards, optimize data pipelines, and develop machine learning models that uncover actionable insights.
 
-As someone who's passionate about **problem-solving, automation, and continuous learning**, I’ve worked in cross-functional teams to support product optimization, fraud detection, and performance tracking. My goal is to contribute to high-impact analytics teams—like at MoMo or other tech-forward companies—by combining analytical rigor with a user-focused mindset.
+Passionate about **problem-solving**, **automation**, and **continuous learning**, I have worked in cross-functional teams supporting product optimization, fraud detection, and performance tracking. My goal is to contribute to high-impact analytics teams, like those at **MoMo** or other tech-forward companies, by blending analytical rigor with a user-focused mindset.
 
 ---
 
@@ -26,8 +26,6 @@ As someone who's passionate about **problem-solving, automation, and continuous 
 ## 💼 Portfolio Projects
 
 Here are some real-world, hands-on data analytics projects I’ve completed using large datasets and modern data tools. These showcase my analytical thinking, business understanding, and technical capabilities.
-
----
 
 ### 🔹 Power BI HR Data Analysis
 
@@ -80,6 +78,45 @@ Understand customer shopping patterns and recommend inventory strategies through
 - Enhanced **customer retention** by identifying loyal customer segments.
 
 **Tech Stack**: Python, Scikit-learn, FP-Growth, Matplotlib, Seaborn
+
+---
+
+### 🔹 Customer Segmentation and Retention Analysis using RFM Model & K-Means Clustering
+
+This project performs **customer segmentation** and **retention analysis** using the **RFM (Recency, Frequency, Monetary)** model and **K-Means clustering**. The goal of this project is to segment customers based on their purchasing behavior and to evaluate customer retention using **Cohort Analysis**. By segmenting customers effectively, we can derive actionable insights that help businesses tailor their marketing strategies and improve customer retention.
+
+**Project Overview**:  
+In this project, I used the RFM model to segment customers into distinct groups based on their:
+- **Recency**: How recently a customer made a purchase.
+- **Frequency**: How often a customer makes a purchase.
+- **Monetary**: How much money a customer spends.
+
+The **K-Means clustering** algorithm was used to group customers with similar behaviors into segments. Following the segmentation, **Cohort Analysis** was conducted to evaluate how different customer segments retain over time. The results of this analysis were used to provide recommendations on improving customer retention strategies.
+
+**Key Features**:
+- **Customer Segmentation**: Using RFM metrics, customers were categorized into groups such as high-value loyal customers, at-risk customers, and frequent low-value customers.
+- **Cohort Analysis**: Evaluated customer retention over time to understand how different customer groups interacted with the brand.
+- **Actionable Insights**: Provided recommendations for targeted marketing strategies to enhance customer retention based on identified segments.
+
+**Tools & Technologies**:  
+- **Python**: Main programming language for data manipulation and analysis.
+- **Pandas**: For data manipulation and cleaning.
+- **Numpy**: For numerical operations.
+- **Scikit-Learn**: For implementing K-Means clustering.
+- **Matplotlib & Seaborn**: For data visualization.
+- **Jupyter Notebook**: For interactive development and results display.
+
+**Steps Involved**:
+1. **Data Collection & Preprocessing**: Cleaned and preprocessed customer transaction data to prepare it for analysis.
+2. **RFM Model Application**: Calculated Recency, Frequency, and Monetary values for each customer.
+3. **Clustering using K-Means**: Applied K-Means clustering to segment customers based on their RFM values.
+4. **Cohort Analysis**: Performed Cohort analysis to understand customer retention across different segments.
+5. **Insights & Recommendations**: Derived insights and provided actionable recommendations for marketing strategies.
+
+**Results**:
+- **Segmentation**: Segmented customers into high-value, loyal, and at-risk groups based on their purchasing behavior.
+- **Retention Rates**: Evaluated customer retention rates through cohort analysis and identified opportunities for improving retention strategies.
+- **Marketing Recommendations**: Suggested personalized marketing strategies for each customer segment to increase retention and enhance long-term value.
 
 ---
 
@@ -174,3 +211,4 @@ Understand customer shopping patterns and recommend inventory strategies through
 Thanks for taking the time to explore my portfolio! Whether it’s improving fraud detection, building scalable dashboards, or uncovering customer insights, I’m committed to delivering impactful data solutions. I’m eager to contribute to **innovative companies**, where I can grow, lead, and shape the future of fintech through data.
 
 Let’s connect and create something meaningful with data! 🚀
+
