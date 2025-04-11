@@ -145,7 +145,7 @@ Understand customer shopping patterns and recommend inventory strategies through
 
 ---
 
-### 🎯 Head of Media Team – Vietnamese Students’ Association  
+### 🎯 Head of Media Team – The Associated Organ of Vietnamese Students’ Association, Faculty of Information Systems  
 📍 *2021 – 2023*
 
 - Led social media and branding strategy; increased engagement by **90%** and event attendance by **70%**.
