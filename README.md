@@ -165,7 +165,7 @@ Understand customer shopping patterns and recommend inventory strategies through
 
 - **📧 Email**: [maitrinh62235@gmail.com](mailto:maitrinh62235@gmail.com)  
 - **🔗 LinkedIn**: [linkedin.com/in/nguyen-mai-trinh](https://www.linkedin.com/in/nguyen-mai-trinh/)  
-- **🐙 GitHub**: [github.com/your-username](https://github.com/your-username)
+- **🐙 GitHub**: [github.com/maitrinh62235](https://github.com/maitrinh62235/maitrinhportfolio))
 
 ---
 
