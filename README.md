@@ -2,17 +2,17 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👋 About Me
 
-Hi there! I’m **Trinh Nguyen Mai**, a passionate **Data Analyst** with a focus on turning data into strategic insights. I'm currently pursuing a **Bachelor’s degree in Management of Information Systems** at the **University of Economics and Laws (VNU-HCM)**, expected to graduate in **May 2025**.
+Hello! I’m **Trinh Nguyen Mai**, a **data analyst** who thrives at the intersection of business understanding and technical expertise. I am currently a final-year student at the **University of Economics and Laws (VNU-HCM)**, pursuing a **Bachelor’s degree in Management of Information Systems**, expected to graduate in **May 2025**.
 
-With strong technical skills in **Power BI**, **SQL**, **Python**, and **Excel**, I’ve delivered impactful data solutions in real-world projects and internships. I thrive in fast-paced environments, love solving business problems through analytics, and enjoy building data systems that empower teams to make smarter decisions.
+I specialize in building **data-driven solutions** that improve decision-making and business performance. With hands-on experience using **Power BI, SQL, Python, and R**, I design robust dashboards, optimize data pipelines, and develop machine learning models that uncover actionable insights.
 
-This portfolio showcases selected projects and experiences that reflect my journey and capabilities as a future-ready data professional.
+As someone who's passionate about **problem-solving, automation, and continuous learning**, I’ve worked in cross-functional teams to support product optimization, fraud detection, and performance tracking. My goal is to contribute to high-impact analytics teams—like at MoMo or other tech-forward companies—by combining analytical rigor with a user-focused mindset.
 
 ---
 
-## 📌 Table of Contents
+## 📁 Table of Contents
 
 1. [Portfolio Projects](#portfolio-projects)
 2. [Skills & Tools](#skills--tools)
@@ -23,117 +23,154 @@ This portfolio showcases selected projects and experiences that reflect my journ
 
 ---
 
-## 📊 Portfolio Projects
+## 💼 Portfolio Projects
 
-### 1. Power BI HR Data Analysis
-
-**Objective**: Build interactive dashboards for HR teams to track employee performance and engagement trends.  
-**Tools**: SQL, SSIS, Power BI  
-**Highlights**:
-- Built ETL pipelines to clean and transform 300+ HR records.
-- Designed 3 Power BI dashboards for performance insights and turnover tracking.
-- Improved data reporting accuracy and executive decision-making speed.
+Here are some real-world, hands-on data analytics projects I’ve completed using large datasets and modern data tools. These showcase my analytical thinking, business understanding, and technical capabilities.
 
 ---
 
-### 2. Fraud Detection System
+### 🔹 Power BI HR Data Analysis
 
-**Objective**: Detect fraudulent financial transactions using machine learning techniques.  
-**Tools**: Python (LSTM, VAE), Scikit-learn, R  
-**Highlights**:
-- Processed 550,000+ financial records.
-- Developed deep learning models (LSTM, VAE) achieving **98% recall** and **50% precision**.
-- Contributed to real-time fraud prevention with scalable model deployment.
+**Objective**:  
+Design an end-to-end ETL and BI reporting solution for HR departments to track employee performance, turnover, and department-wise metrics.
 
----
+**Project Scope**:
+- Used **SQL** and **SSIS** to clean, transform, and load HR data (316 records).
+- Built **3 interactive dashboards** in **Power BI** displaying KPIs such as average tenure, department performance, attrition rates, and satisfaction levels.
+- Designed with **drill-down filters** for HR managers to explore trends at team and role levels.
 
-### 3. Customer Behavior Analysis
+**Impact**:
+- Enabled HR leaders to identify performance bottlenecks and improve hiring strategies.
+- Reduced manual reporting time by over **50%**.
 
-**Objective**: Analyze purchasing behavior and optimize stock management strategies.  
-**Tools**: Python (K-Means, FP-Growth)  
-**Highlights**:
-- Segmented 4,000+ customers and discovered 100+ frequent itemsets.
-- Provided actionable insights to enhance inventory planning and customer retention.
+**Tech Stack**: SQL, Power BI, SSIS, DAX, ETL, Data Modeling
 
 ---
 
-## ⚙️ Skills & Tools
+### 🔹 Financial Fraud Detection (Python & R)
 
-### Technical Skills
-- **Languages**: Python, R, SQL
-- **Data Analytics & BI**: Power BI, Excel, Pandas, Seaborn, Matplotlib
-- **Machine Learning**: Logistic Regression, Random Forest, XGBoost, LSTM, VAE
-- **Databases**: SQL Server, Data Wrangling, Query Optimization
-- **ETL Tools**: SSIS
-- **Project Management**: Jira, Microsoft Project
-- **Business Tools**: Microsoft Office 365, SAP S/4HANA
+**Objective**:  
+Build predictive models to detect fraudulent transactions in financial datasets and reduce payment risks.
 
-### Soft Skills
-- Communication & Collaboration  
-- Problem-solving & Critical Thinking  
-- Data Storytelling & Visualization  
-- Leadership & Team Management  
-- Time Management & Adaptability
+**Project Scope**:
+- Analyzed a dataset with over **550,000 financial transactions**.
+- Developed **LSTM** and **VAE** models for anomaly detection using **Python** and **R**.
+- Conducted **feature engineering**, handled class imbalance with SMOTE, and evaluated performance using confusion matrices and ROC-AUC scores.
+
+**Results**:
+- Achieved **98% recall** and **95% precision**, reducing false negatives significantly.
+- Model supported in creating a scalable fraud detection pipeline.
+
+**Tech Stack**: Python, R, TensorFlow, Scikit-learn, Matplotlib, Pandas, SMOTE
+
+---
+
+### 🔹 Customer Behavior & Market Basket Analysis
+
+**Objective**:  
+Understand customer shopping patterns and recommend inventory strategies through segmentation and association rules.
+
+**Project Scope**:
+- Segmented **4,000+ customers** using **K-Means clustering** based on spending behavior and visit frequency.
+- Performed **FP-Growth association analysis**, generating over **100 frequent itemsets**.
+- Delivered a recommendation system for product bundling and personalized promotions.
+
+**Impact**:
+- Supported better **stock planning** and **upselling opportunities**, increasing average basket size.
+- Enhanced **customer retention** by identifying loyal customer segments.
+
+**Tech Stack**: Python, Scikit-learn, FP-Growth, Matplotlib, Seaborn
+
+---
+
+## 🧠 Skills & Tools
+
+### 🛠️ Technical Skills
+
+| Category                     | Tools & Technologies                                                                 |
+|-----------------------------|---------------------------------------------------------------------------------------|
+| **Data Analytics**          | Power BI, Excel, SQL (SQL Server), Python (Pandas, NumPy)                             |
+| **Visualization**           | Power BI, Matplotlib, Seaborn, DAX                                                    |
+| **Machine Learning**        | Logistic Regression, Random Forest, XGBoost, LSTM, VAE                                |
+| **ETL & Data Pipelines**    | SSIS, SQL Joins & Aggregations, Data Cleansing, Data Modeling                         |
+| **Programming**             | Python, R, SQL, Git                                                                   |
+| **Databases**               | SQL Server, MySQL                                                                     |
+| **Project & Collaboration** | Microsoft Project, Jira, Microsoft Teams, GitHub                                      |
+| **ERP**                     | SAP S/4HANA – Business Process Integration                                            |
+
+### 💼 Soft Skills
+- Strong written and verbal communication
+- Analytical thinking and problem-solving
+- Time management and adaptability
+- Detail-oriented with a focus on data quality
+- Team leadership and collaboration
 
 ---
 
 ## 🎓 Education
 
 **University of Economics and Laws (VNU-HCM)**  
-**Degree**: Bachelor of Management of Information Systems  
-**Expected Graduation**: May 2025  
-**GPA**: 3.1/4.0
+📅 *Expected Graduation: May 2025*  
+🎓 *Bachelor of Management of Information Systems*  
+📊 *GPA: 3.1/4.0*
 
 **Relevant Coursework**:
 - Business Intelligence
-- Data Analytics with Python/R
-- Database Management
+- Data Analytics (Python/R)
 - Data Mining
 - Programming Techniques
-- Big Data
+- Database Management
+- Big Data Systems
 
 ---
 
-## 🧑‍💼 Work Experience
+## 👨‍💼 Work Experience
 
-### 📍 Data Analyst Intern – Bosch Global Software Technologies Vietnam  
-**Nov 2024 – May 2025**
-- Optimized 10+ Power BI dashboards, reducing report time by 30%.
-- Streamlined SQL queries, improving speed by 40% and data accuracy by 75%.
-- Collaborated with cross-functional teams to define KPIs and build scalable dashboards.
-- Created detailed documentation, ensuring long-term usability and stakeholder autonomy.
+### 💼 Data Analyst Intern – Bosch Global Software Technologies Vietnam  
+📍 *Nov 2024 – May 2025*
 
-### 📍 Data Analyst Apprentice – Vietnam International Bank (VIB)  
-**April 2024 – June 2024**
-- Built fraud detection models using Logistic Regression, Random Forest, and XGBoost.
-- Achieved **98% recall**, **95% precision**, and an AUC of 0.98.
-- Enhanced risk mitigation systems and decision-making processes.
-
-### 📍 Head of Media Team – The Associated Organ of Vietnamese Students’ Association  
-**2021 – 2023**
-- Led marketing efforts that increased engagement by 90% and page traffic by 50%.
-- Organized workshops and community events, reaching 70% student participation.
+- Designed and optimized over **10+ Power BI dashboards**, improving data delivery efficiency by **30%**.
+- Reduced SQL query processing time by **40%** and improved data accuracy by **75%** through structured workflows and clean joins.
+- Partnered with stakeholders to define KPIs and built automated reports for performance monitoring.
+- Authored internal documentation to ensure **dashboard sustainability** and **team self-sufficiency**.
 
 ---
 
-## 📜 Certifications
+### 💼 Data Analyst Apprentice – Vietnam International Bank (VIB)  
+📍 *April 2024 – June 2024*
 
-- [Google Data Analytics Professional Certificate (Coursera)](https://www.credly.com/badges/e2400957-5e06-4c70-8041-40b8eec05991/public_url)  
-- [SAP Certified Application Associate – Business Process Integration with SAP S/4HANA 2020 (TS410)](https://www.credly.com/users/nguy-n-mai-trinh)  
-- **IELTS (IDP)**: Reading: 6.0 | Writing: 6.0  
-
----
-
-## 📫 Contact
-
-- **Email**: [maitrinh62235@gmail.com](mailto:maitrinh62235@gmail.com)  
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nguyen-mai-trinh/)  
-- **GitHub**: [GitHub Profile](https://github.com/your-username)
+- Developed machine learning models (Logistic Regression, Random Forest, XGBoost) to detect fraud.
+- Improved accuracy by **15%**, achieving **98% recall**, **95% precision**, and **AUC: 0.98**.
+- Supported model integration for near real-time fraud alerts.
 
 ---
 
-## 🙌 Thanks for Visiting!
+### 🎯 Head of Media Team – Vietnamese Students’ Association  
+📍 *2021 – 2023*
 
-Thank you for checking out my portfolio! I'm always open to opportunities to contribute, collaborate, and create with data. Whether it’s designing dashboards, optimizing processes, or building predictive models—I’m excited to drive value with data.
+- Led social media and branding strategy; increased engagement by **90%** and event attendance by **70%**.
+- Managed a team of 10+ members, coordinated national volunteer programs and student development workshops.
 
-Let’s connect and explore how we can work together!
+---
+
+## 🧾 Certifications
+
+- 🏆 [**Google Data Analytics Professional Certificate** (Coursera)](https://www.credly.com/badges/e2400957-5e06-4c70-8041-40b8eec05991/public_url)  
+- 🧾 [**SAP Certified Application Associate** – Business Process Integration with SAP S/4HANA 2020 (TS410)](https://www.credly.com/users/nguy-n-mai-trinh)  
+- 🎓 **IELTS (IDP)**: Reading 6.0, Writing 6.0
+
+---
+
+## 📬 Contact
+
+- **📧 Email**: [maitrinh62235@gmail.com](mailto:maitrinh62235@gmail.com)  
+- **🔗 LinkedIn**: [linkedin.com/in/nguyen-mai-trinh](https://www.linkedin.com/in/nguyen-mai-trinh/)  
+- **🐙 GitHub**: [github.com/your-username](https://github.com/your-username)
+
+---
+
+## 🙏 Final Note
+
+Thanks for taking the time to explore my portfolio! Whether it’s improving fraud detection, building scalable dashboards, or uncovering customer insights, I’m committed to delivering impactful data solutions. I’m eager to contribute to **innovative companies**, where I can grow, lead, and shape the future of fintech through data.
+
+Let’s connect and create something meaningful with data! 🚀
